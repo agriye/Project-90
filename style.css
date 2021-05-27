@@ -42,6 +42,7 @@ body
 }
 #output
 {
+color: black;
 background: white;
 border-radius: 10px;
 border-top: 10px solid #AA4465;
